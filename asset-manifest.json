@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f2547d4.chunk.css",
+    "main.js": "/static/js/main.da4aa26a.chunk.js",
+    "main.js.map": "/static/js/main.da4aa26a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fd0ee7e7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fd0ee7e7.js.map",
+    "static/js/2.d924ebd6.chunk.js": "/static/js/2.d924ebd6.chunk.js",
+    "static/js/2.d924ebd6.chunk.js.map": "/static/js/2.d924ebd6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.13ab28f747110f1198d4f5a5460a56b0.js": "/precache-manifest.13ab28f747110f1198d4f5a5460a56b0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4f2547d4.chunk.css.map": "/static/css/main.4f2547d4.chunk.css.map",
+    "static/media/BAT.svg": "/static/media/BAT.8ebed5e7.svg",
+    "static/media/Bitcoin.svg": "/static/media/Bitcoin.d7876d48.svg",
+    "static/media/XRP.svg": "/static/media/XRP.d47fb469.svg",
+    "static/media/bank.svg": "/static/media/bank.f306cda7.svg",
+    "static/media/betacoin.png": "/static/media/betacoin.22a9cab5.png",
+    "static/media/betacoin1.svg": "/static/media/betacoin1.32f9a94e.svg",
+    "static/media/header.css": "/static/media/information.f99af8e9.svg",
+    "static/media/dogecoin.svg": "/static/media/dogecoin.605642c7.svg",
+    "static/media/eos.svg": "/static/media/eos.81713350.svg",
+    "static/media/ethereum.svg": "/static/media/ethereum.18708d3e.svg",
+    "static/media/information-dark.svg": "/static/media/information-dark.19072fe2.svg",
+    "static/media/isk.png": "/static/media/isk.804ad7d2.png",
+    "static/media/litecoin.svg": "/static/media/litecoin.c151518b.svg",
+    "static/media/monero.svg": "/static/media/monero.f9caaf1e.svg",
+    "static/media/index.css": "/static/media/spring-swing-rocket.f8bbed12.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd0ee7e7.js",
+    "static/js/2.d924ebd6.chunk.js",
+    "static/css/main.4f2547d4.chunk.css",
+    "static/js/main.da4aa26a.chunk.js"
+  ]
+}
